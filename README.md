@@ -1,4 +1,4 @@
-# Play chiptune (mod, s3m, it, xm files) on C# 
+# Play chiptune (mod, s3m, it, xm files) on C# (DotNET)
 
 ### 1. Import these in your main form
 ```
