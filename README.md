@@ -6,7 +6,9 @@
 
 ### 1. Import these in your main form
 ```C#
+using System;
 using System.IO;
+using System.Reflection;
 using Un4seen.BassMOD;
 ```
 
