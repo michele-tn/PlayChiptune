@@ -1,4 +1,4 @@
-# Play chiptune (mod, s3m, it, xm files) on C# (DotNET)
+# Play Chiptune Modules (.MOD, .S3M, .IT, .XM files) on C# (#DotNET)
 
 **BASSMOD.dll       : embedded resource<br/>**
 **BassMOD.Net.dll   : Reference to your Visual Studio Project..**
